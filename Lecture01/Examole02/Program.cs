@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace Examole02
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            Student student = new Student();
+            student.Name = "Richard";
+            student.Email = "richardc110@gmail.com";
         }
     }
 }

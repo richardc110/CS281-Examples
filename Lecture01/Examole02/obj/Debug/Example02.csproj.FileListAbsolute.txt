@@ -1,0 +1,6 @@
+C:\Users\richc110\Desktop\CS281-Examples\Lecture01\Examole02\bin\Debug\Examole02.exe.config
+C:\Users\richc110\Desktop\CS281-Examples\Lecture01\Examole02\bin\Debug\Examole02.exe
+C:\Users\richc110\Desktop\CS281-Examples\Lecture01\Examole02\bin\Debug\Examole02.pdb
+C:\Users\richc110\Desktop\CS281-Examples\Lecture01\Examole02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+C:\Users\richc110\Desktop\CS281-Examples\Lecture01\Examole02\obj\Debug\Examole02.exe
+C:\Users\richc110\Desktop\CS281-Examples\Lecture01\Examole02\obj\Debug\Examole02.pdb
